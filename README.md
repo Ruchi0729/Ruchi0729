@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ruchita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/ruchita-patil-098b01193/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ruchita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/ruchita-patil-/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Ruchita-green)](https://www.ruchita)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Ruchita-yellow)](https://stackoverflow.com/users/21978514/ruchita-patil)
 
@@ -9,7 +9,7 @@ Full Stack Developer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive),database(MongoDB, Mysql).
 
 
-![Visitor Count](https://profile-counter.glitch.me/Ruchi0729/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Ruchita-Patil/count.svg)
 
 
 Languages and Tools: 
