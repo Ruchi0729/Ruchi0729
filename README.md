@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ruchita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/ruchita-patil-/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Ruchita-green)](https://www.ruchita)
+[![Website Badge](https://img.shields.io/badge/WebSite-Ruchita-green)](https://ruchita-patil.github.io/Portfolio/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Ruchita-yellow)](https://stackoverflow.com/users/21978514/ruchita-patil)
 
 I'm
